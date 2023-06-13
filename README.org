@@ -1,0 +1,10 @@
+* workout-timer
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/workout-timer.git   |
+| commit  |   |
+| systems | workout-timer |
+|---------+-------------------------------------------|
+
