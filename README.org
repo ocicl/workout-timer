@@ -1,10 +1,9 @@
 * workout-timer
 
+workout-timer is a trivial workout timer written in Common Lisp.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/frideau/workout-timer.git   |
-| commit  |   |
-| systems | workout-timer |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/workout-timer.git |
+| commit  | e551b83                                                      |
+| systems | workout-timer                                                |
+|---------+--------------------------------------------------------------|
